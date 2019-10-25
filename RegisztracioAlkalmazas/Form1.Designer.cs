@@ -198,7 +198,7 @@
             this.Controls.Add(this.szulDate);
             this.Controls.Add(this.ujHobbi);
             this.Controls.Add(this.nev);
-            this.Cursor = System.Windows.Forms.Cursors.PanNorth;
+            this.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
