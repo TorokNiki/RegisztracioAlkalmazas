@@ -26,19 +26,19 @@ namespace RegisztracioAlkalmazas
 
         private void Mentes_Click(object sender, EventArgs e)
         {
-            StreamWriter szemelyes = new StreamWriter("SzemelyesAdatok.txt", true, Encoding.UTF8);
+            StreamWriter szemelyes = new StreamWriter("SzemelyesAdatok.txt", false, Encoding.UTF8);
 
             if (nev.Text != "")
             {
-                szemelyes.Write(nev.Text + ", ");
+                szemelyes.Write(nev.Text + ";");
             }
             if (szulDate.Text != "")
             {
-                szemelyes.Write(szulDate.Text + ", ");
+                szemelyes.Write(szulDate.Text + ";");
             }
             if (fiu.Checked == true)
             {
-                szemelyes.Write("ferfi");
+                szemelyes.Write("Férfi");
             }
             else
             {
@@ -54,11 +54,20 @@ namespace RegisztracioAlkalmazas
             {
                 Hobbik.Items.Add(line);
             }
-        }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
+            foreach (var sor in File.ReadAllLines("SzemelyesAdatok.txt"))
+            {
+                string[] Sor = sor.Split(';');
+                nev.Text = Sor[0];
+                szulDate.Text = Sor[1];
+                if (Sor[2].Equals("Férfi"))
+                {
+                    fiu.Checked=true;
+                }else
+                {
+                    lany.Checked = true;
+                }
+            }
         }
     }
 }

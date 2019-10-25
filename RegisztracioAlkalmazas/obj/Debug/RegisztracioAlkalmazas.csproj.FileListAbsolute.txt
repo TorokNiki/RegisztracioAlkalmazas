@@ -7,3 +7,6 @@ D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioA
 D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.GenerateResource.Cache
 D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.exe
 D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.pdb
+C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe.config
+C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.exe
+C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.pdb
