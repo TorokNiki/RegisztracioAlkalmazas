@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.nev = new System.Windows.Forms.TextBox();
             this.ujHobbi = new System.Windows.Forms.TextBox();
             this.szulDate = new System.Windows.Forms.TextBox();
@@ -197,9 +198,13 @@
             this.Controls.Add(this.szulDate);
             this.Controls.Add(this.ujHobbi);
             this.Controls.Add(this.nev);
+            this.Cursor = System.Windows.Forms.Cursors.PanNorth;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Regisztrációs Alkalmazás";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -10,3 +10,9 @@ D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioA
 C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe.config
 C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.exe
 C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.pdb
+C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe
+C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.pdb
+C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csprojResolveAssemblyReference.cache
+C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Form1.resources
+C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Properties.Resources.resources
+C:\Users\Leora\Source\Repos\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.GenerateResource.Cache
