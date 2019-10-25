@@ -1,0 +1,9 @@
+D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe.config
+D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe
+D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.pdb
+D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csprojResolveAssemblyReference.cache
+D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Form1.resources
+D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Properties.Resources.resources
+D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.GenerateResource.Cache
+D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.exe
+D:\suli\C#\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.pdb
